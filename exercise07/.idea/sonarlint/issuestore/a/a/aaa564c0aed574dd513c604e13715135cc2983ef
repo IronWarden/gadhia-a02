@@ -1,0 +1,9 @@
+
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(²‡Ñıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Õé¸í
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(‰´–¶
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(´½‚ı
+t
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "areaM2".(€á¶ı
+0
+java:S1220""Move this file to a named package.
