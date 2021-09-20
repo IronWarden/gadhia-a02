@@ -1,0 +1,10 @@
+
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ĞáÏßøÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(³´¯ş
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(äõÆÜùÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(­œÁÌ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÉÍåêùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+c
+java:S21848"HCast one of the operands of this multiplication operation to a "double".(Æ§Úùÿÿÿÿ
